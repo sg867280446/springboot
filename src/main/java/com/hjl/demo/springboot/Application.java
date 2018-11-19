@@ -19,6 +19,7 @@ public class Application {
         Map<String,String> map = new HashMap<String,String>();
         map.put("name","joke");
         return map;
+
     }
 
     public static void main(String[] args) {
